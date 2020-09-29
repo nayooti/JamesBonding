@@ -3,7 +3,7 @@
 A lightweight solution to link data between multiple view instances. 
 I created this for my MVVM-based projects to sync state between ViewModel und UIElements.
 
-
+![Alt Text](https://github.com/nayooti/JamesBonding/blob/master/JamesBonding/ezgif.com-video-to-gif.gif =250x250)
 
 ### How to use it:
 ```
