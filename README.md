@@ -1,6 +1,9 @@
 # JamesBonding - Multi-Way-Binding in Swift
 
 A lightweight solution to link data between multiple view instances. 
+I created this for my MVVM-based projects to sync state between ViewModel und UIElements.
+
+
 
 ### How to use it:
 ```
@@ -22,5 +25,8 @@ lazy var label: BoundLabel {
 The label and textView live-update when the value of message changes. 
 Also when the `label.text` and `textView.text` change the value of message, so everything will stay in sync.
 
+
 You can find more examples in the repo.
+
+
 
