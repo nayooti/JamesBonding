@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		AE08D1B5252338DA004EF83C /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE08D1B4252338DA004EF83C /* Observer.swift */; };
+		AE08D1CE25239167004EF83C /* ezgif.com-video-to-gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = AE08D1CD25239167004EF83C /* ezgif.com-video-to-gif.gif */; };
 		AEDCCAFB25233176006837C4 /* JamesBonding.h in Headers */ = {isa = PBXBuildFile; fileRef = AEDCCAF925233176006837C4 /* JamesBonding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AEDCCB032523321C006837C4 /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDCCB022523321C006837C4 /* Observable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AE08D1B4252338DA004EF83C /* Observer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observer.swift; sourceTree = "<group>"; };
+		AE08D1CD25239167004EF83C /* ezgif.com-video-to-gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ezgif.com-video-to-gif.gif"; sourceTree = "<group>"; };
 		AEDCCAF625233176006837C4 /* JamesBonding.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JamesBonding.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEDCCAF925233176006837C4 /* JamesBonding.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JamesBonding.h; sourceTree = "<group>"; };
 		AEDCCAFA25233176006837C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -34,6 +36,7 @@
 		AEDCCAEC25233176006837C4 = {
 			isa = PBXGroup;
 			children = (
+				AE08D1CD25239167004EF83C /* ezgif.com-video-to-gif.gif */,
 				AEDCCAF825233176006837C4 /* JamesBonding */,
 				AEDCCAF725233176006837C4 /* Products */,
 			);
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE08D1CE25239167004EF83C /* ezgif.com-video-to-gif.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -27,7 +27,7 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hjx-H6-1vz" customClass="BoundLabel" customModule="JamesBonding">
-                                <rect key="frame" x="20" y="180.5" width="374" height="21"/>
+                                <rect key="frame" x="20" y="208.5" width="374" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -37,10 +37,10 @@
                                 <state key="normal" title="Unbind Top Textfield"/>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="YCQ-70-z2l" customClass="BoundTextView" customModule="JamesBonding">
-                                <rect key="frame" x="20" y="231.5" width="374" height="128"/>
+                                <rect key="frame" x="20" y="259.5" width="374" height="100"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="128" id="zSR-c2-1vq"/>
+                                    <constraint firstAttribute="height" constant="100" id="zSR-c2-1vq"/>
                                 </constraints>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
